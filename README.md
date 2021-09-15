@@ -1,2 +1,2 @@
 # Learning-JavaScript
-This repository cotains a lot of exercicies to pratice Js
+This repository contains mini projects to pratice Js and CSS.
